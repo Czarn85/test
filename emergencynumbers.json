@@ -1,0 +1,39 @@
+{
+  "emergencynumbers": [
+    {
+      "id": 0,
+      "name": "Pogotowie ratunkowe",
+      "numberCategoriesList": [
+        {
+          "id": 0,
+          "name": "Nazwa kategori 1",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        },
+        {
+          "id": 1,
+          "name": "Nazwa kategori 2",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        }
+      ],
+      "phoneNumber": "303-256-723",
+      "areaIdentifier": "0",
+      "thumbnail": {
+        "id": 3,
+        "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
+        "path": ""
+      },
+      "image": [{
+        "id": 1,
+        "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
+        "path": ""
+      }]
+    }]
+}
