@@ -1,0 +1,15 @@
+server:
+  port: 8888
+spring:
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        encrypt:
+          enabled: false
+        git:
+          uri: https://github.com/adriankorzen/config-repo
+          searchPaths: microservicehello
+          username: adriankorzen
+          password: 2e2y6yzzjDdEa3T
